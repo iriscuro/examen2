@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1541681112 source:d:\c++practica\practicalaboratorio2\src\animal.cpp
+	"Animal.h"
+	<iostream>
+
+1541678659 d:\c++practica\practicalaboratorio2\include\animal.h
+	<Animal.h>
+	<string>
+
+1541678659 source:d:\c++practica\practicalaboratorio2\src\arranimal.cpp
+	"ArrAnimal.h"
+	<Animal.h>
+	<string>
+
+1541678659 d:\c++practica\practicalaboratorio2\include\arranimal.h
+	<Animal.h>
+	<string>
+
+1541636713 source:d:\c++practica\practicalaboratorio2\src\gato.cpp
+	"Animal.h"
+	"Gato.h"
+	<iostream>
+
+1541636713 d:\c++practica\practicalaboratorio2\include\gato.h
+	"Animal.h"
+
+1541636713 source:d:\c++practica\practicalaboratorio2\src\loro.cpp
+	"Loro.h"
+	"Animal.h"
+	<iostream>
+
+1541636713 d:\c++practica\practicalaboratorio2\include\loro.h
+	"Animal.h"
+
+1541636713 source:d:\c++practica\practicalaboratorio2\src\perro.cpp
+	"Perro.h"
+	"Animal.h"
+	<iostream>
+
+1541636713 d:\c++practica\practicalaboratorio2\include\perro.h
+	"Animal.h"
+
+1541681099 source:d:\c++practica\practicalaboratorio2\main.cpp
+	<iostream>
+	<Animal.h>
+	<Gato.h>
+	<Loro.h>
+	<Perro.h>
+	"ArrAnimal.h"
+
